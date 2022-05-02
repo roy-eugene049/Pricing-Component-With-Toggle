@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./Designs/desktop.png)
-![Mobile](./Designs/mobile.png)
+![Desktop](./)
+![Mobile](./)
 
 ### Links
 
-- Solution URL: [Github Repo]()
+- Solution URL: [Github Repo](https://github.com/roy-eugene049/Pricing-Component-With-Toggle)
 - Live Site URL: [Live Demo]()
 
 ## My process
